@@ -1,1 +1,1 @@
-card game memory made using react.js
+concerntration card game made using react.js
